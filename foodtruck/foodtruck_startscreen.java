@@ -2,7 +2,7 @@ package foodtruck;
 
 import java.util.Locale;
 
-public class FoodTruckSpiel {
+public class foodtruck_startscreen {
     public static void main(String[] args) {
         System.out.println("+======================================+");
         System.out.println("|   FFFFF  OOOOO  OOOOO  DDDD         |");
