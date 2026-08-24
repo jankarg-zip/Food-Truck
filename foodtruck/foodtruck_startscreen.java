@@ -18,6 +18,7 @@ public class foodtruck_startscreen {
         System.out.println();
         System.out.println("Willkommen bei Food Truck!".toUpperCase(Locale.GERMAN));
         System.out.println("Dein Abenteuer auf vier Raedern beginnt!.");
+        System.out.println("test.");
         System.out.println("Bereite leckeres Essen zu und werde zum Food-Truck-Star!");
     }
 }
