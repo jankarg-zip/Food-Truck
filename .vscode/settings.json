@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "java": "javac -d .. $fileName && java -cp .. foodtruck.$fileNameWithoutExt"
+    }
+}
